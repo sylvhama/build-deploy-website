@@ -2,7 +2,7 @@ Those links are mostly front-end related and framework agnostic.
 
 ## Performance best practices
 
-- [Designing for mobile performance](https://mdc-web-tomcat17.ubisoft.org/confluence/download/attachments/460992392/brainfood-mobile-performance-vol3.pdf?version=1&amp;modificationDate=1526306483000&amp;api=v2)
+- Designing for mobile performance: https://www.awwwards.com/brain-food-perceived-performance/
 - Optimize images:  [https://images.guide/](https://images.guide/)
 - Impact of performance  [https://github.com/zenorocha/browser-diet/wiki/Impact-of-performance](https://github.com/zenorocha/browser-diet/wiki/Impact-of-performance)
 - Some front-end dev advices:   [https://browserdiet.com/](https://browserdiet.com/)
