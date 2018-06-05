@@ -30,6 +30,7 @@ Those links are mostly front-end related and framework agnostic.
 - Bing should not be ignored:  [https://www.bing.com/toolbox/webmaster](https://www.bing.com/toolbox/webmaster)
 - Google webmaster tools:  [https://www.google.com/webmasters/tools](https://www.google.com/webmasters/tools)
 - GA:  [https://www.google.com/analytics/](https://www.google.com/analytics/)
+- Favicon generator: https://realfavicongenerator.net/
 
 ## SMO (Social Media Optimization)
 
