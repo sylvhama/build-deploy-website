@@ -21,6 +21,7 @@ Those links are mostly front-end related and framework agnostic.
 
 - Test on each browser, even mobile ones:  [https://www.browserstack.com/](https://www.browserstack.com/)
 - End-to-end tests:  [https://github.com/GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer)
+- Another end-to-end tests solution: [https://www.cypress.io/](https://www.cypress.io/)
 
 ## SEO (Search Engine Optimization)
 
