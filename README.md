@@ -50,5 +50,6 @@ Those links are mostly front-end related and framework agnostic.
 ## Deployment (includes Security and Accessibility)
 
 - Great checklist before deploying:  [https://frontendchecklist.io/](https://frontendchecklist.io/)
+- Security checklist: [https://securitycheckli.st/](https://securitycheckli.st/)
 - More about security  [https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html](https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html)
 - Another checklist:  [https://websitelaunchchecklist.com/](https://websitelaunchchecklist.com/)
